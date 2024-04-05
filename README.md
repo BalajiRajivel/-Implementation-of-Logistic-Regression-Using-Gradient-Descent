@@ -117,45 +117,45 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-Array Value of x
+## Array Value of x
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/1e9f27f0-8efd-4e1f-8b87-4134fc74ad6d)
 
-Array Value of y
+## Array Value of y
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/1c248f5c-42cc-432b-80af-edb8e5bb9aa9)
 
-Exam1 -score graph
+## Exam1 -score graph
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/02bf8811-dd71-432b-9362-da4e2f8972dc)
 
-Sigmoid function graph
+## Sigmoid function graph
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/dc7a5f69-7a81-4501-921a-c235a3a6ed67)
 
-X_train_grad value
+## X_train_grad value
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/a849f773-90d5-4f3d-9d6a-ef7dbb82b100)
 
-Y_train_grad value
+## Y_train_grad value
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/baab62d1-a098-485c-8466-f664c10d4977)
 
-Print res.x
+## Print res.x
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/16b614b0-89b3-4807-8b8b-65dda17878b8)
 
-Decision boundary - graph for exam score
+## Decision boundary - graph for exam score
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/3dc6c1b8-297d-467f-a954-7e3dddf28dbb)
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/1c9113b9-2e95-4a6c-a4fa-baf922f9a8d8)
 
-Proability value
+## Proability value
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/8e91c18c-b7a1-45da-b02e-a55d65c90402)
 
-Prediction value of mean
+## Prediction value of mean
 
 ![image](https://github.com/VIKRAMK21062005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120624033/f39557b6-57d5-448c-8ebe-7bbd5506b879)
 
